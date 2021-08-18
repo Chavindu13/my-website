@@ -1,3 +1,2 @@
 This is really awesome site
-Now editing on update-readme branch
-Edited Locally!
+Update made on master on github before rebase
